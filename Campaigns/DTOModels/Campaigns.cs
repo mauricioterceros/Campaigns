@@ -7,6 +7,6 @@ namespace Campaigns.DTOModels
 {
     public class Campaigns
     {
-        public string Nombre { get; set; }
+        public string Name { get; set; }
     }
 }
